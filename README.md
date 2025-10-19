@@ -18,6 +18,5 @@ Laptop: Daily driver (config in juno)
 
 ## Contact
 
-Catch me in The Graveyard (UTC -07:00)
+Slow replies, but I’m around! Shoot me a message with any questions or concerns.
 
-Slow replies, but I’m around!
