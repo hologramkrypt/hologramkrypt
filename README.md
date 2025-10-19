@@ -13,11 +13,12 @@ OS: Fedora 42
 
 WM: Hyprland
 
-Workstation: (details in [saturni]())
+Workstation: (details in [saturni](https://github.com/hologramkrypt/saturni))
 
-Laptop: ASUS Zenbook (details in [juno]())
+Laptop: ASUS Zenbook (details in [juno](https://github.com/hologramkrypt/juno))
 
-Home Server: (details in [homelab]())
+Home Server: (details in [homelab](https://github.com/hologramkrypt/homelab))
+
 ## Contact
 
 Slow replies, but I’m around! Shoot me a message with any questions or concerns.
