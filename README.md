@@ -1,4 +1,4 @@
-## hologramkrypt
+## Welcome!
 
 Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweaking linux setups. Here you can find some of my projects, feel free to use anything here however you like!
 
