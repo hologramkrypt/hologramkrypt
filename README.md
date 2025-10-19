@@ -11,7 +11,7 @@ Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweak
 ## System Specs
 
 | Type        | Specification                  |
-| ...         | ...                            |
+|             |                                |
 | OS          | Fedora 42                      |
 | WM          | Hyprland                       |
 | Workstation | (details in [saturni](https://github.com/hologramkrypt/saturni))           |
