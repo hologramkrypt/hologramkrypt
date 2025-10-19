@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+
+[![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hologramkrypt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![streak](https://github-readme-stats.vercel.app/api?username=hologramkrypt&show_icons=true&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
