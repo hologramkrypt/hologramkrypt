@@ -4,9 +4,13 @@ Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweak
 
 ## System Specs
 OS: Fedora 42
+
 WM: Hyprland
+
 Workstation: (details in [saturni]())
+
 Laptop: ASUS Zenbook (details in [juno]())
+
 Home Server: (details in [homelab]())
 
 ## 📊 GitHub Stats
