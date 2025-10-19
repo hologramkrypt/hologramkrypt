@@ -9,15 +9,13 @@ Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweak
 [![streak](https://github-readme-stats.vercel.app/api?username=hologramkrypt&show_icons=true&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## System Specs
-OS: Fedora 42
+| Type        | Specification                  |
+| OS          | Fedora 42                      |
+| WM          | Hyprland                       |
+| Workstation | (details in [saturni](https://github.com/hologramkrypt/saturni))           |
+| Laptop      | ASUS Zenbook (details in [juno](https://github.com/hologramkrypt/juno)) | 
+| Home Server | (details in [homelab](https://github.com/hologramkrypt/homelab))           |
 
-WM: Hyprland
-
-Workstation: (details in [saturni](https://github.com/hologramkrypt/saturni))
-
-Laptop: ASUS Zenbook (details in [juno](https://github.com/hologramkrypt/juno))
-
-Home Server: (details in [homelab](https://github.com/hologramkrypt/homelab))
 
 ## Contact
 
