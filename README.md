@@ -14,12 +14,12 @@ Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweak
 | ----------- | ------------------------------ |
 | OS          | Fedora 42                      |
 | WM          | Hyprland                       |
-| Workstation | (details in [saturni](https://github.com/hologramkrypt/saturni))           |
+| Workstation | (details in [soma](https://github.com/hologramkrypt/soma))           |
 | Laptop      | (details in [juno](https://github.com/hologramkrypt/juno))                 | 
 | Home Server | (details in [homelab](https://github.com/hologramkrypt/homelab))           |
 
 
 ## Contact
 
-Slow replies, but I’m around! Shoot me a message with any questions or concerns.
+I might be slow to reply, but I am around! Shoot me a message with any questions or concerns, and I'll get back to you at my first convenience. 
 
