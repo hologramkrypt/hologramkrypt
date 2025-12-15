@@ -12,9 +12,9 @@ Hey, I'm SHADE! I'm a tech enthusiast, and one of my hobbies is ricing and tweak
 
 | Type        | Specification                  |
 | ----------- | ------------------------------ |
-| OS          | Fedora 42                      |
+| OS          | Arch Linux                     |
 | WM          | Hyprland                       |
-| Workstation | (details in [soma](https://github.com/hologramkrypt/soma))           |
+| Workstation | (details in [soma](https://github.com/hologramkrypt/soma))                 |
 | Laptop      | (details in [juno](https://github.com/hologramkrypt/juno))                 | 
 | Home Server | (details in [homelab](https://github.com/hologramkrypt/homelab))           |
 
