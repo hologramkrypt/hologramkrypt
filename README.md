@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E4BFF&text=SHADE&fontColor=ffffff&height=180&fontSize=80&desc=Digital%20Ricer%20%7C%20Linux%20Enthusiast&descAlign=center&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E4BFF&text=SHADE&fontColor=ffffff&height=180&fontSize=80&desc=&descAlign=center&descSize=0" width="100%"/>
 
 ### Hey, I'm **SHADE** 👾
 
