@@ -12,8 +12,6 @@ Welcome to my corner of the internet. Feel free to explore, fork, and use anythi
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hologramkrypt&theme=tokyonight" height="160" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hologramkrypt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="Streak"/>
-</div>
 
 ---
 
