@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E4BFF&text=SHADE&fontColor=ffffff&height=20&fontSize=80" width="100%"/>
-
 ###  Hey, I'm **SHADE**
 
 Tech enthusiast & part-time **Linux ricer**. Obsessed with crafting beautiful, performant, and highly customized setups.
