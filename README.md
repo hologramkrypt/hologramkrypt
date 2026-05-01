@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6E4BFF&text=SHADE&fontColor=ffffff&height=0&fontSize=80&desc=&descAlign=center&descSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6E4BFF&text=SHADE&fontColor=ffffff&height=20&fontSize=80" width="100%"/>
 
-### Hey, I'm **SHADE** 👾
+###  Hey, I'm **SHADE**
 
-Tech enthusiast & full-time **Linux ricer**. Obsessed with crafting beautiful, performant, and highly customized setups.
+Tech enthusiast & part-time **Linux ricer**. Obsessed with crafting beautiful, performant, and highly customized setups.
 
 Welcome to my corner of the internet. Feel free to explore, fork, and use anything here however you like.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hologramkrypt&theme=tokyonight" height="160" alt="Stats"/>
@@ -19,7 +19,7 @@ Welcome to my corner of the internet. Feel free to explore, fork, and use anythi
 
 ---
 
-### 🖥️ System Specs
+###  System Specs
 
 <table align="center">
   <tr>
@@ -50,7 +50,7 @@ Welcome to my corner of the internet. Feel free to explore, fork, and use anythi
 
 ---
 
-### 📬 Contact
+###  Contact
 
 I'm often deep in config files or debugging something, so I might be slow to reply — but I'm around.
 
